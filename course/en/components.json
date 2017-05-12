@@ -213,7 +213,7 @@
     "_items": [
       {
         "title": "Change doesn't happen overnight",
-        "body": "<p dir=\"ltr\">It is almost impossible to implement change overnight, especially in large organisations. Over time, organisations get used to operating in a certain way and it takes time to change those ways.&nbsp;</p><p dir=\"ltr\">As implementing change takes time, there needs to be a person, or a team of people, who are dedicated to overseeing and managing the change process. This also serves to ensure that the process continues</p><p dir=\"ltr\"><strong>[[SPANISH GOV DIGITIAL SERVICE]]</strong></p>",
+        "body": "<p dir=\"ltr\">t is almost impossible to implement change overnight, especially in large organisations. Over time, organisations get used to operating in a certain way and it takes time to change those ways.</p><p dir=\"ltr\">As implementing change takes time, there needs to be a person, or a team of people, who are dedicated to overseeing and managing the change process. This also serves to ensure that the process continues.</p><p dir=\"ltr\">A <a href=\"http://www.nortonrosefulbright.com/knowledge/publications/136571/the-digital-transformation-of-the-german-emmittelstandem\">report from Germany</a> found that collaboration is key to change management and digital transformation in Small and Medium-size Enterprises.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -312,13 +312,13 @@
     "_items": [
       {
         "title": "Clear vision",
-        "body": "<p>A clear vision is important for change management in order to get internal and external support for the initiative. This vision should align to the organisation&#39;s goals, otherwise it will jar with the brand or image of the organisation.</p><p>The leader of the project&nbsp;needs to be able to&nbsp;articulate this vision to ensure support internally and externally.</p><p><strong>Telefonica, vision and values?&nbsp;https://www.telefonica.com/en/web/about_telefonica/our-vision-values</strong></p><p><strong>Defra: data principles?</strong></p><p>&nbsp;</p><p><strong>[[NON CONTROVERSIAL CASE STUDY NEEDED]]&nbsp;&nbsp;</strong></p>",
+        "body": "<p dir=\"ltr\">A clear vision is important for change management in order to get internal and external support for the initiative. This vision should align to the organisation&#39;s goals, otherwise it will jar with the brand or image of the organisation.</p><p>The leader of the project needs to be able to articulate this vision to ensure support internally and externally.<a href=\"http://www.computerweekly.com/news/450284803/France-takes-the-lead-in-the-global-open-data-race\"> </a></p><p>In France, a <a href=\"http://www.computerweekly.com/news/450284803/France-takes-the-lead-in-the-global-open-data-race\">Government Chief Data Officer</a> has been appointed to do just this, reporting on progress on winning support inside and outside government.</p>",
         "_graphic": {
           "src": "course/en/assets/e476d5412f3c230ba6365724bc2935db25901c21.jpg",
           "alt": "",
           "attribution": "<a href=\"http://www.shutterstock.com/pic-238771996.html\" target=\"_blank\">Mangsaab</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
         },
-        "strapline": "Clear ownership and vision"
+        "strapline": "Clear vision"
       },
       {
         "title": "Senior buy-in",
@@ -1842,7 +1842,7 @@
     "_layout": "full",
     "_parentId": "590b31abd084d5167a04e163",
     "_type": "component",
-    "body": "<p>There are a number of assessment tools that can help you assess the impact of an organisation or country&#39;s open data policy, programme or initiative. Each assessment tool uses&nbsp;slightly different methodologies and measurements, so find the one that works best for your context. Think about which criteria are important for your organisation.</p><p>This module looks in detail at the European Data Portal&#39;s&nbsp;<a href=\"https://www.europeandataportal.eu/en/dashboard\" target=\"_blank\">Open Data in Europe</a>&nbsp;which compares the open data initiatives of European Union countries.</p><p dir=\"ltr\">You can also look at <a href=\"https://index.okfn.org/\" target=\"_blank\">Global Open Data Index</a> and <a href=\"http://opendatabarometer.org\" target=\"_blank\">Open Data Barometer</a>&nbsp;for country comparison.</p><p dir=\"ltr\">Open Data in Europe looks at three areas of impact: <strong>political, economic and social.</strong></p>",
+    "body": "<p>There are a number of assessment tools that can help you assess the impact of an organisation or country&#39;s open data policy, programme or initiative. Each assessment tool uses&nbsp;slightly different methodologies and measurements, so find the one that works best for your context. Think about which criteria are important for your organisation.</p><p>This module looks in detail at the European Data Portal&#39;s&nbsp;<a href=\"https://www.europeandataportal.eu/en/dashboard\" target=\"_blank\">Open Data in Europe</a>&nbsp;which compares the open data initiatives of European Union countries.</p><p dir=\"ltr\">You can also look at <a href=\"https://index.okfn.org/\" target=\"_blank\">Global Open Data Index</a> and <a href=\"http://opendatabarometer.org\" target=\"_blank\">Open Data Barometer</a>&nbsp;which compare countries internationally.</p><p dir=\"ltr\">Open Data in Europe looks at three areas of impact: <strong>political, economic and social.</strong></p>",
     "displayTitle": " How do we measure impact?",
     "title": " How do we measure impact?",
     "_isAvailable": true,
@@ -1859,7 +1859,7 @@
     "_items": [
       {
         "title": "Political",
-        "body": "<p dir=\"ltr\">The factors that make up the political impact indicator are impact&nbsp;on government efficiency and effectiveness and impact on transparency and accountability.</p><p dir=\"ltr\">In&nbsp;2016, the highest scoring countries for political impact are Slovakia, Ireland, Bulgaria, France, Greece.</p><p dir=\"ltr\"><a href=\"https://www.europeandataportal.eu/en/dashboard\">Get the data</a></p><p dir=\"ltr\">In Bulgaria, government departments no longer require requesting data from other departments as that data is now published openly, thus saving the time and cost involved in requesting data.</p>",
+        "body": "<p dir=\"ltr\">The factors that make up the political impact indicator are impact on government efficiency and effectiveness and impact on transparency and accountability.</p><p dir=\"ltr\">In 2016, the highest scoring countries for political impact were Slovakia, Ireland, Bulgaria, France, Greece.</p><p dir=\"ltr\"><a href=\"https://www.europeandataportal.eu/en/dashboard\">Get the data</a></p><p dir=\"ltr\">In Bulgaria, government departments no longer require requesting data from other departments as that data is now published openly, thus saving the time and cost involved in requesting data.</p>",
         "_graphic": {
           "src": "course/en/assets/3f1d65f956a8899071b4f3584b4a88d3851863df.jpg",
           "alt": "",
@@ -1869,7 +1869,7 @@
       },
       {
         "title": "Economic",
-        "body": "<p dir=\"ltr\">The economic&nbsp;impact indicator is based upon the implementation of multiple macro-economic studies assessing the market value of open data and&nbsp;studies regarding better service delivery or looking at related subjects.</p><p dir=\"ltr\">In 2016, the highest scoring countries for economic&nbsp;impact are Slovakia and Spain.</p><p dir=\"ltr\"><a href=\"https://www.europeandataportal.eu/en/dashboard\">Get the data</a></p><p dir=\"ltr\">Read more about the <a href=\"https://www.europeandataportal.eu/en/highlights/creating-value-through-open-data\" target=\"_blank\">economic value of open data in Europe</a>.</p>",
+        "body": "<p dir=\"ltr\">The economic&nbsp;impact indicator is based upon the implementation of multiple macro-economic studies assessing the market value of open data and&nbsp;studies regarding better service delivery or looking at related subjects.</p><p dir=\"ltr\">In 2016, the highest scoring countries for economic&nbsp;impact were Slovakia and Spain.</p><p dir=\"ltr\"><a href=\"https://www.europeandataportal.eu/en/dashboard\">Get the data</a></p><p dir=\"ltr\">Read more about the <a href=\"https://www.europeandataportal.eu/en/highlights/creating-value-through-open-data\" target=\"_blank\">economic value of open data in Europe</a>.</p>",
         "_graphic": {
           "src": "course/en/assets/e7980bbe7f0e8916f118a2bf24193c8f88211ba2.jpg",
           "alt": "",
@@ -1879,7 +1879,7 @@
       },
       {
         "title": "Social",
-        "body": "<p dir=\"ltr\">There are t<strong>wo factors that make up the social impact indicator: impact on environmental sustainability in the country and on increasing the inclusion of marginalised groups in policy making and the&nbsp;access of government services. <span style=\"color:#FF0000\">[[IS THIS RIGHT??]]</span></strong></p><p dir=\"ltr\">The two highest scoring countries in 2016 where Spain and the UK.</p><p><a href=\"https://www.europeandataportal.eu/en/dashboard\" target=\"_blank\">Get the data</a></p><p>In Spain, one example of including marginalised groups is&nbsp;<a href=\"http://www.sinbarrera.es/\">Sin Barrera32</a>, a tool for finding car parking spaces that are accessible for wheelchair access.</p>",
+        "body": "<p dir=\"ltr\">The social impact indicator includes impact on environmental sustainability &nbsp;and the inclusion of marginalised groups in policymaking and the accessing government services.</p><p dir=\"ltr\">The two highest scoring countries in 2016 were Spain and the UK.</p><p><a href=\"https://www.europeandataportal.eu/en/dashboard\" target=\"_blank\">Get the data</a></p><p>In Spain, one example of including marginalised groups is&nbsp;<a href=\"http://www.sinbarrera.es/\">Sin Barrera32</a>, a tool for finding car parking spaces that are accessible for wheelchair access.</p>",
         "_graphic": {
           "src": "course/en/assets/194749d6a3d955ccf1327dff670d11d82f1e5892.jpg",
           "alt": "",

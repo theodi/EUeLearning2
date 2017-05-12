@@ -65,10 +65,16 @@
   },
   "_id": "course",
   "_start": {
-    "_isMenuDisabled": false,
+    "_isEnabled": true,
+    "_startIds": [
+      {
+        "_id": "58eb788bd084d5167a04d4dc",
+        "_skipIfComplete": false,
+        "_className": ""
+      }
+    ],
     "_force": false,
-    "_startIds": [],
-    "_isEnabled": false
+    "_isMenuDisabled": true
   },
   "_type": "course",
   "_lockType": "",
