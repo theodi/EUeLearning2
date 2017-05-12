@@ -1,0 +1,130 @@
+[
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/94164aeed2f6885fcdf44f9fe5484855c5238353.jpg"
+    },
+    "_id": "58eb788bd084d5167a04d4dc",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Open data advocacy",
+    "title": "Open data advocacy",
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Structure the perfect pitch",
+          "credits": 5,
+          "level": "pioneer"
+        },
+        {
+          "outcome": "Identify different audiences for your pitch",
+          "credits": 5,
+          "level": "pioneer"
+        },
+        {
+          "outcome": "Tailor your pitch to different audiences",
+          "credits": 5,
+          "level": "pioneer"
+        }
+      ]
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/a699447adb040b8b78c36f46d46356ba124debf3.png"
+    },
+    "_id": "58eb788bd084d5167a04d4dd",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Managing change in open data",
+    "title": "Managing change in open data",
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Define change management",
+          "credits": 5,
+          "level": "pioneer"
+        },
+        {
+          "outcome": "List the key elements of change management",
+          "credits": 5,
+          "level": "pioneer"
+        },
+        {
+          "outcome": "Explain challenges facing change management",
+          "credits": 5,
+          "level": "pioneer"
+        }
+      ]
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/1fc73255e55ba04b56c12fcf0dda29d60db46b4d.jpg"
+    },
+    "_id": "590b31aad084d5167a04e156",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Achieving impact with open data",
+    "title": "Achieving impact with open data",
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Explain the importance of achieving impact",
+          "credits": 5,
+          "level": "pioneer"
+        },
+        {
+          "outcome": "Describe ways to achieve impact",
+          "credits": 5,
+          "level": "pioneer"
+        },
+        {
+          "outcome": "Describe how to measure impact",
+          "credits": 5,
+          "level": "pioneer"
+        },
+        {
+          "outcome": "Explain how to overcome barriers to achieving impact",
+          "credits": 5,
+          "level": "pioneer"
+        }
+      ]
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  }
+]
