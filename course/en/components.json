@@ -165,7 +165,7 @@
     "_layout": "right",
     "_parentId": "58eb788bd084d5167a04d4f3",
     "_type": "component",
-    "body": "<p>Creating an effective pitch for open data requires five elements. When brought together, these create a clear, compelling case for action that can be used when seeking management approval, budgetary and resource&nbsp;support and downstream use and re-use. The pitch should be delivered in 90 seconds or less.</p><p>The five components of the perfect pitch are:</p><ol><li>What it is &ndash;&nbsp;the problem you are solving&nbsp;for your users</li><li>What it&nbsp;can do&nbsp;&ndash; a tailored description of the benefit</li><li>Where it&#39;s helped &ndash; a relevant, quantified proof point</li><li>Why it&#39;s best &ndash; justification for why it beats other options</li><li>What next &ndash; a realistic decision that can be taken on the spot</li></ol><p>Below we explore each of these components&nbsp;in more detail.</p>",
+    "body": "<p>Creating an effective pitch for open data requires five elements. When brought together, these create a clear, compelling case for action that can be used when seeking management approval, budgetary and resource&nbsp;support and downstream use and reuse. The pitch should be delivered in 90 seconds or less.</p><p>The five components of the perfect pitch are:</p><ol><li>What it is &ndash;&nbsp;the problem you are solving&nbsp;for your users</li><li>What it&nbsp;can do&nbsp;&ndash; a tailored description of the benefit</li><li>Where it&#39;s helped &ndash; a relevant, quantified proof point</li><li>Why it&#39;s best &ndash; justification for why it beats other options</li><li>What next &ndash; a realistic decision that can be taken on the spot</li></ol><p>Below we explore each of these components&nbsp;in more detail.</p>",
     "displayTitle": "The five components of the perfect open data pitch",
     "title": "The five components of the perfect open data pitch",
     "_isAvailable": true,
@@ -195,56 +195,6 @@
     "instruction": ""
   },
   {
-    "_id": "58eb788bd084d5167a04d522",
-    "_layout": "right",
-    "_parentId": "58eb788bd084d5167a04d4fd",
-    "_type": "component",
-    "body": "<p>Effective management is essential for the success of&nbsp;any project or initiative. Change management is no exception. Below we explore some of the key reasons why we need to manage the process of change.</p>",
-    "displayTitle": "Why is managing change important?",
-    "title": "Why is managing change important?",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "accordion",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_items": [
-      {
-        "title": "Change doesn't happen overnight",
-        "body": "<p dir=\"ltr\">t is almost impossible to implement change overnight, especially in large organisations. Over time, organisations get used to operating in a certain way and it takes time to change those ways.</p><p dir=\"ltr\">As implementing change takes time, there needs to be a person, or a team of people, who are dedicated to overseeing and managing the change process. This also serves to ensure that the process continues.</p><p dir=\"ltr\">A <a href=\"http://www.nortonrosefulbright.com/knowledge/publications/136571/the-digital-transformation-of-the-german-emmittelstandem\">report from Germany</a> found that collaboration is key to change management and digital transformation in Small and Medium-size Enterprises.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Reducing risk",
-        "body": "<p>Managing the process of change reduces the overall risks to an organisation.</p><p>There are different reasons why an organisation wishes to implement a change management process. Sometimes this can be due to&nbsp;negative impacts from their current process, system, structure or way of working.</p><p>In these cases, it is&nbsp;a risk to maintain the current situation&nbsp;as it might&nbsp;lead to a loss in revenue or a decline in the organisation&#39;s&nbsp;reputation.</p><p>However, it might be equally&nbsp;risky to implement change too quickly.&nbsp;Managing the change process is a way to control&nbsp;these risks and make sure that the change is positive.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Ensuring sustainability",
-        "body": "<p>Managing the process of change is critical for its sustainability. Having a clear leader who is managing the change&nbsp;process&nbsp;means that&nbsp;the change&nbsp;is more likely to be sustainable long term.&nbsp;This doesn&#39;t necessarily have to be the most senior person in the organisation, but they do need to be able to make decisions.</p><p>They appoint&nbsp;others to drive the change alongside them who have the necessary skills and responsibilities to make alterations in how the organisation works.</p><p>It is also part of this role to&nbsp;ensure that others, both&nbsp;internal and external to the organisation, understand why the change is needed and that they support that change. Without this support, any change is unlikely to be sustainable.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      }
-    ],
-    "_shouldCollapseItems": true
-  },
-  {
     "_id": "58eb788bd084d5167a04d526",
     "_layout": "right",
     "_parentId": "58eb788bd084d5167a04d4ff",
@@ -263,13 +213,13 @@
     "_graphic": {
       "alt": "",
       "large": "course/en/assets/cdce8ea3ed04a12e226ca17c8e5be93fffe1fb11.png",
-      "small": "course/en/assets/cdce8ea3ed04a12e226ca17c8e5be93fffe1fb11.png",
-      "attribution": "<a href=\"http://www.shutterstock.com/pic-134315933.html\" target=\"_blank\">Photoraiz</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+      "small": "course/en/assets/a699447adb040b8b78c36f46d46356ba124debf3.png",
+      "attribution": ""
     }
   },
   {
     "_id": "58eb788bd084d5167a04d527",
-    "_layout": "left",
+    "_layout": "right",
     "_parentId": "58eb788bd084d5167a04d4fd",
     "_type": "component",
     "body": "",
@@ -289,78 +239,6 @@
       "small": "course/en/assets/3b66beb92878268fd90bf52b67cb10c55f741f17.jpg",
       "attribution": "<a href=\"https://www.shutterstock.com/image-vector/flat-style-vector-icons-set-mobile-203239417\" target=\"_blank\">Ozerina Anna</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
     }
-  },
-  {
-    "_id": "58eb788bd084d5167a04d528",
-    "_layout": "full",
-    "_parentId": "58eb788bd084d5167a04d500",
-    "_type": "component",
-    "body": "<p dir=\"ltr\">There are several key elements necessary to successfully manage change within an organisation. These elements are relevant to both the private and the public sectors.</p>",
-    "displayTitle": "What are the key elements of change management?",
-    "title": "What are the key elements of change management?",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "narrative",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "mobileInstruction": "",
-    "_hasNavigationInTextArea": false,
-    "_setCompletionOn": "allItems",
-    "_items": [
-      {
-        "title": "Clear vision",
-        "body": "<p dir=\"ltr\">A clear vision is important for change management in order to get internal and external support for the initiative. This vision should align to the organisation&#39;s goals, otherwise it will jar with the brand or image of the organisation.</p><p>The leader of the project needs to be able to articulate this vision to ensure support internally and externally.<a href=\"http://www.computerweekly.com/news/450284803/France-takes-the-lead-in-the-global-open-data-race\"> </a></p><p>In France, a <a href=\"http://www.computerweekly.com/news/450284803/France-takes-the-lead-in-the-global-open-data-race\">Government Chief Data Officer</a> has been appointed to do just this, reporting on progress on winning support inside and outside government.</p>",
-        "_graphic": {
-          "src": "course/en/assets/e476d5412f3c230ba6365724bc2935db25901c21.jpg",
-          "alt": "",
-          "attribution": "<a href=\"http://www.shutterstock.com/pic-238771996.html\" target=\"_blank\">Mangsaab</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-        },
-        "strapline": "Clear vision"
-      },
-      {
-        "title": "Senior buy-in",
-        "body": "<p>With any programme of change, it is common for those driving it to meet some resistance from within their organisations.</p><p>Active support from senior figures can help to encourage institutional buy-in.</p><p>Working with these senior figures&nbsp;is critical, as an &lsquo;insurgency strategy&rsquo; to introduce change will not be sustainable.</p><p>&nbsp;</p>",
-        "_graphic": {
-          "src": "course/en/assets/4b63c6af07902f3f8460f8a4ca00a26d4df61cf9.jpg",
-          "alt": "",
-          "attribution": "<a href=\"https://pixabay.com/en/building-blocks-toys-block-building-717309/\" target=\"_blank\">Spowell</a> <span class='assetLicence'>[CC0]</span>"
-        },
-        "strapline": "Senior buy-in"
-      },
-      {
-        "title": "Keeping on track",
-        "body": "<p>Organisations big and small need to include metrics or Key Performance Indicators (KPIs) to evaluate the programme&#39;s progress. This will help justify investment of time and money in the change programme.</p><p>When designing KPIs, think about what will have the most impact. It is useful to include a baseline to compare what the initiative has achieved to what would have been done without the initiative.</p><p>There should ideally be three different metrics and focused around the percentage of change that has occurred in a particular case or sector.</p>",
-        "_graphic": {
-          "src": "course/en/assets/2b5ec4242610756a70a3b5e12afaf1626f3f0d02.jpg",
-          "alt": "",
-          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/3d-illustration-concept-kpi-174926546\" target=\"_blank\">leromin</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-        },
-        "strapline": "Keeping on track"
-      },
-      {
-        "title": "Communicating impact",
-        "body": "<p dir=\"ltr\">Understanding the impact of a change process will help to secure its future.</p><p dir=\"ltr\">Those driving forward a change programme&nbsp;should focus on the tangible impact that is a direct result of the programme. A good place to focus is quick wins: areas where low effort will result in immediate impact.</p><p>Clearly communicating&nbsp;impact stories&nbsp;will help gain support from all those involved in the programme.</p><p dir=\"ltr\">In the public sector, many countries showcase examples where others are using their open data, including <a href=\"http://datos.gob.es/es/iniciativas\" target=\"_blank\">Spain</a>,&nbsp;<a href=\"https://data.gov.ie/showcase\" target=\"_blank\">Ireland</a>&nbsp;and&nbsp;<a href=\"http://www.data.gouv.fr/fr/\" target=\"_blank\">France</a>.</p>",
-        "_graphic": {
-          "src": "course/en/assets/1eef9340d96e57e84343777b61a3c23d138d02d7.jpg",
-          "alt": "",
-          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366\" target=\"_blank\">Sergey Nivens</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-        },
-        "strapline": "Communicating impact"
-      },
-      {
-        "title": "Align your priorities with your funder",
-        "body": "<p>Align&nbsp;the priorities of the project, programme or initiative with the priorities of the person responsible for the budget.</p><p>This could be the CEO of your company, or the organisation that manages your funding.</p><p>Aligning your priorities will help ensure the sustainability and the impact&nbsp;of your programme.</p>",
-        "_graphic": {
-          "src": "course/en/assets/7fec32b99da9f008a88d2622d258aaea82bf1513.jpg",
-          "alt": "",
-          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/background-colorful-airplanes-vector-illustration-103013084?src=id\" target=\"_blank\">Laralova</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-        },
-        "strapline": "Align priorities"
-      }
-    ]
   },
   {
     "_id": "58eb788bd084d5167a04d52b",
@@ -494,7 +372,7 @@
       },
       {
         "title": "Clear expectations",
-        "body": "<p>Make sure that you set clear expectations for&nbsp;what you are asking. Aspects such as timeframe, resourcing and potential impact should all be central to managing expectations.&nbsp;</p><p>If the listener feels that the timeframe or resourcing constraints limit the opportunity, they may even be able to help. Being open and reasonable will help the listener to become engaged in your pitch.</p><p>If your pitch is perfect and there are no problems to be solved then the listener is unlikely to engage&nbsp;with you. You can use the level of listener engagement as an indicator of the potential success of your pitch.&nbsp;</p>",
+        "body": "<p>Make sure that you set clear expectations for&nbsp;what you are asking. Aspects such as timeframe, resourcing and potential impact should all be central to managing expectations.&nbsp;</p><p>If the listener feels that the timeframe or resourcing constraints limit the opportunity, they may even be able to help. Being open and reasonable will help the listener to become engaged in your pitch.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -530,7 +408,7 @@
     "_layout": "left",
     "_parentId": "58eb788bd084d5167a04d4f2",
     "_type": "component",
-    "body": "<p>Open&nbsp;data can be a valuable resource&nbsp;for any organisation.&nbsp;Whether to drive innovation in the business, develop a clearer picture of operations or improve products and services,&nbsp;a growing number of private and public sector organisations&nbsp;now benefit from publishing and using open data.</p><p>But opening data&nbsp;might require a change in the culture of an organisation. Most organisations&nbsp;are configured to protect their data resources, even when&nbsp;the benefits of openness outweigh the costs. The key to overcoming this resistance is clear, effective communication of the benefits that open data can bring.</p><p>This module will prepare you to deliver a tailored pitch for open data that highlights value and addresses risks.</p><p><strong>In this module we&#39;ll explore how to:</strong></p><ul><li>structure the perfect&nbsp;pitch</li><li>identify different audiences for your pitch</li><li>tailor your pitch to different audiences</li></ul>",
+    "body": "<p dir=\"ltr\">Opening data can be a valuable activity for any organisation. Whether to drive innovation in the business, develop a clearer picture of operations or improve products and services, a growing number of private and public sector organisations now benefit from publishing and using open data.</p><p dir=\"ltr\">But opening data might require a change in the culture of an organisation. Most organisations are configured to protect their data resources, even when the benefits of openness outweigh the costs. The key to overcoming this resistance is clear, effective communication of the benefits that open data can and is bringing.</p><p dir=\"ltr\">This module will prepare you to deliver a tailored pitch for open data that highlights value and addresses risks.</p><p dir=\"ltr\">In this module we&#39;ll explore how to:</p><ul><li>structure the perfect pitch</li><li>identify different audiences for your pitch</li><li>tailor your pitch to different audiences</li></ul>",
     "displayTitle": "Open data advocacy",
     "title": "Open data advocacy",
     "_isAvailable": true,
@@ -547,7 +425,7 @@
     "_layout": "right",
     "_parentId": "58eb788bd084d5167a04d4f5",
     "_type": "component",
-    "body": "<p>Many advocates of open data use generic arguments when discussing its advantages, but a strong pitch needs to be closely tailored to the priorities and concerns of the audience&nbsp;of the pitch and the decision maker.</p><p>In most cases, this can be determined from their professional context. Below we examine four common roles, coupled with the most relevant benefits of better use of data.</p>",
+    "body": "<p dir=\"ltr\">There are many general arguments for using open data, but a strong pitch needs to be closely tailored to the priorities and concerns of the audience of the pitch and the decision maker.</p><p>In most cases, this can be determined from their professional context. Below we examine four common roles, coupled with the most relevant benefits of better use of data.</p>",
     "displayTitle": "What open data can do",
     "title": "What open data can do",
     "_isAvailable": true,
@@ -634,7 +512,7 @@
       },
       {
         "title": "Improving service delivery",
-        "body": "<p dir=\"ltr\">Open data can help organisations improve services for users. Organisations enable their users to make decisions based on easily comparable data and information.</p><p>Available in over 400 cities across the world, Austrian based <a href=\"http://www.bikecitizens.net/\">Bike Citizens</a> are combining open data from cycle schemes and maps to improve the urban cyclist&rsquo;s experience.</p><p dir=\"ltr\">Open data is being used in the Netherlands to <a href=\"http://www.go-ov.nl/\">reduce the barriers facing disabled people </a>&nbsp;by allowing them to book transport and navigate their area more easily.</p><p dir=\"ltr\">Czech company DATLOWE have created a comprehensive <a href=\"http://lekovaencyklopedie.cz/EncyclopediaApp/#home;lang=cs\">Drug Encyclopaedia</a> as a guide for patients and medical professionals to easily compare ingredients found in medication.a</p>",
+        "body": "<p dir=\"ltr\">Open data can help organisations improve services for users. Organisations enable their users to make decisions based on easily comparable data and information.</p><p dir=\"ltr\">Available in over 400 cities across the world, Austrian-based <a href=\"http://www.bikecitizens.net/\">Bike Citizens</a> are combining open data from cycle schemes and maps to improve the urban cyclist&rsquo;s experience.</p><p dir=\"ltr\">Open data is being used in the Netherlands to <a href=\"http://www.go-ov.nl/\">reduce the barriers facing disabled people </a>&nbsp;by allowing them to book transport and navigate their area more easily.</p><p dir=\"ltr\">Czech company DATLOWE have created a comprehensive <a href=\"http://lekovaencyklopedie.cz/EncyclopediaApp/#home;lang=cs\">Drug Encyclopaedia</a> as a guide for patients and medical professionals to easily compare ingredients found in medication.</p>",
         "_graphic": {
           "src": "course/en/assets/c0eca1e9dde2d00c75333a3690c8ba35d98c1d3c.jpg",
           "alt": "",
@@ -644,7 +522,7 @@
       },
       {
         "title": "Reducing costs",
-        "body": "<p dir=\"ltr\">Open data can help businesses reduce their costs and be more efficient in their operations.</p><p dir=\"ltr\">Swedish music-streaming giant Spotify and the UK&rsquo;s BBC both use <a href=\"https://musicbrainz.org/\">open data service MusicBrainz</a> to complement their music services and enhance their users&rsquo; experience without having to create the costly catalogue themselves.</p><p dir=\"ltr\">In Slovenia, winegrowers are using open data to help them <a href=\"https://www.evineyardapp.com/\">make smarter growing decisions</a>, whereas in Hungary, a <a href=\"http://filab.hu/2016/05/saving-food-2-0-2/\">revolution to stop food waste</a> is underway, built on open data and collaboration.</p>",
+        "body": "<p dir=\"ltr\">Open data can help businesses reduce their costs and be more efficient in their operations.</p><p dir=\"ltr\">Swedish music-streaming giant Spotify and the UK&rsquo;s BBC both use <a href=\"https://musicbrainz.org/\">open data service MusicBrainz</a> to complement their music services and enhance their users&rsquo; experience without having to invest in maintaining the catalogue themselves.</p><p dir=\"ltr\">In Slovenia, winegrowers are using open data to help them <a href=\"https://www.evineyardapp.com/\">make smarter growing decisions</a>, whereas in Hungary, a <a href=\"http://filab.hu/2016/05/saving-food-2-0-2/\">revolution to stop food waste</a> is underway, built on open data and collaboration.</p>",
         "_graphic": {
           "src": "course/en/assets/a504270596bccd50c7606befecc8b926320b60a8.png",
           "alt": "",
@@ -1019,7 +897,7 @@
     "_layout": "left",
     "_parentId": "58fe139cd084d5167a04e036",
     "_type": "component",
-    "body": "<p>Open data&nbsp;can be valuable resources for any organisation to make more effective&nbsp;use of their resources. However, most&nbsp;businesses are configured to protect their data resources, even where the benefits of greater sharing outweigh the costs.</p><p>Clear, effective communication of the benefits is essential to capture imaginations and gain trust and understanding. In this module we have learned&nbsp;how you can deliver a tailored pitch for open data.</p>",
+    "body": "<p dir=\"ltr\">Opening data can be a valuable activity for any organisation to make more effective use of their resources. However, most businesses are configured to protect their data resources, even where the benefits of greater sharing outweigh the costs.</p><p>Clear, effective communication of the benefits is essential to capture imaginations and gain trust and understanding. In this module we have learned how to deliver a tailored pitch for open data.</p>",
     "displayTitle": "Open data advocacy",
     "title": "Open data advocacy",
     "_isAvailable": true,
@@ -1053,7 +931,7 @@
     "_layout": "left",
     "_parentId": "58eb788bd084d5167a04d4fc",
     "_type": "component",
-    "body": "<p dir=\"ltr\">Change&nbsp;management is the process of introducing a long-term transition, change or development in an organisation.</p><p dir=\"ltr\">In this module, we&rsquo;ll explore why it is important for organisations to manage&nbsp;change and key elements to help&nbsp;build a successful&nbsp;change management process.</p><ul><li dir=\"ltr\">What is change management?</li><li dir=\"ltr\">Why is managing change important?</li><li dir=\"ltr\">What are the key elements of change management?</li></ul>",
+    "body": "<p dir=\"ltr\">Change&nbsp;management is the process of introducing a long-term transition, change or development in an organisation.&nbsp;Change management is especially important when dealing with large changes such as the cultural changes needed to succeed with open data.</p><p dir=\"ltr\">In this module, we&rsquo;ll explore why it is important for organisations to manage&nbsp;change and key elements to help&nbsp;build a successful&nbsp;change management process.</p><ul><li dir=\"ltr\">What is change management?</li><li dir=\"ltr\">Why is change management&nbsp;important in open data initiatives?</li><li dir=\"ltr\">Why is change management needed?</li><li dir=\"ltr\">What are the key elements of change management?</li></ul>",
     "displayTitle": "Managing change in open data",
     "title": "Managing change in open data",
     "_isAvailable": true,
@@ -1153,7 +1031,7 @@
     "title": "Component title",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "color-six",
+    "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
       "_isEnabled": true
@@ -1161,8 +1039,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
-      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
       "attribution": ""
     }
   },
@@ -1350,7 +1228,7 @@
     "_layout": "left",
     "_parentId": "590b31abd084d5167a04e160",
     "_type": "component",
-    "body": "<p dir=\"ltr\">Achieving impact with open data is an essential part to ensuring the sustainability of open data projects and initiatives. Creating, finding and promoting&nbsp;<a href=\"http://opendatabarometer.org/3rdEdition/report/#impact\" target=\"_blank\">examples of open data being used to improve our daily lives</a>&nbsp;is one of the most challenging aspects of leading an open data project, programme or initiative.</p><p dir=\"ltr\">In this module we&#39;ll explore:</p><ul><li dir=\"ltr\">Why is achieving impact important?</li><li dir=\"ltr\">How can&nbsp;we achieve impact?</li><li dir=\"ltr\">How can&nbsp;we measure the impact we&rsquo;ve achieved?</li><li dir=\"ltr\">Overcoming barriers to achieving impact</li></ul>",
+    "body": "<p dir=\"ltr\">The goal of any open data project or initiative is to have some kind of impact, be it social benefit, economic growth or environmental protection.&quot; Creating, finding and promoting&nbsp;<a href=\"http://opendatabarometer.org/3rdEdition/report/#impact\" target=\"_blank\">examples of open data being used to improve our daily lives</a>&nbsp;is one of the most challenging aspects of leading an open data project, programme or initiative.</p><p dir=\"ltr\">In this module we&#39;ll explore:</p><ul><li dir=\"ltr\">Why is achieving impact important?</li><li dir=\"ltr\">How can&nbsp;we achieve impact?</li><li dir=\"ltr\">How can&nbsp;we measure the impact we&rsquo;ve achieved?</li><li dir=\"ltr\">Overcoming barriers to achieving impact</li></ul>",
     "displayTitle": "Achieving impact with open data",
     "title": "Achieving impact with open data",
     "_isAvailable": true,
@@ -1367,7 +1245,7 @@
     "_layout": "right",
     "_parentId": "590b31abd084d5167a04e161",
     "_type": "component",
-    "body": "<p dir=\"ltr\">Impact is a key part of measuring the effectiveness of an open data policy, programme or initiative.&nbsp;Impact also provides a justification for why a programme of work should be continued as it demonstrates the return on investment.</p><p dir=\"ltr\">This return on investment or ROI might not be financial in nature, as there are wider political and social impacts&nbsp;to be gained from open data.&nbsp;</p><p dir=\"ltr\">You can find out more in the module&nbsp;<a href=\"https://www.europeandataportal.eu/elearning/en/module2/#/id/co-01\" target=\"_blank\">Unlocking value from open data</a>.</p>",
+    "body": "<p dir=\"ltr\">Impact is a key part of measuring the effectiveness of an open data policy, programme or initiative. It is hard to argue for&nbsp;a programme of work to continue&nbsp;if it cannot demonstrate&nbsp;the return on investment by way of impact.</p><p dir=\"ltr\">This return on investment or ROI might not be financial in nature, as there are wider political and social impacts&nbsp;to be gained from open data.&nbsp;</p><p dir=\"ltr\">You can find out more in the module&nbsp;<a href=\"https://www.europeandataportal.eu/elearning/en/module2/#/id/co-01\" target=\"_blank\">Unlocking value from open data</a>.</p>",
     "displayTitle": " Why is achieving impact important?",
     "title": " Why is achieving impact important?",
     "_isAvailable": true,
@@ -1446,8 +1324,8 @@
     "_setCompletionOn": "inview",
     "_items": [
       {
-        "title": "Convincing others",
-        "body": "<p>You might be bought in, but an open data initiative, programme or policy needs wider support to achieve impact. Convincing your colleagues, manager or funder to the value of open data is one of the biggest barriers.</p><p>The way to overcome this barrier is to have a strong vision that you can clearly articulate. Work out which benefits of open data are most likely to persuade the person that you are trying to convince, and include real life case studies and examples that are relevant to the point you are making.</p><p>Find out more about convincing others in <a href=\"#/id/58eb788bd084d5167a04d4dc\" target=\"_blank\">Open data advocacy</a>.</p>",
+        "title": "Users don't know about your data",
+        "body": "<p>You may have excellent data that could achieve positive impacts, but only if users know that the data exists.</p><p>One way to promote your data is to set specific challenges around your data. A&nbsp;<a href=\"http://www.nesta.org.uk/project/open-data-challenge-series\" target=\"_blank\">challenge series</a>&nbsp;is a nice way to bring people together around your data. By offering a cash prize and setting out an open innovation process, you are able to motivate others to&nbsp;reuse your data and get some great impact stories.</p><p>Showcasing use cases alongside your data will also help to encourage reuse.</p>",
         "_graphic": {
           "src": "course/en/assets/44692b04753e36675bd12acf35820956832091e4.jpg",
           "alt": "",
@@ -1457,7 +1335,7 @@
       },
       {
         "title": "Fear of breaching data protection",
-        "body": "<p>Data protection is becoming ever more important, particularly with the <a href=\"http://www.eugdpr.org/\" target=\"_blank\">EU General Data Protection Regulation</a> (GDPR) coming into force in 2018.</p><p>However, data protection is often&nbsp;cited as a key reason not to open data, even when the data does not contain personal data.</p><p>It can be useful to look at the data from a different angle, to justify why it should be closed, instead of justifying why it should be open. This approach is called &#39;open by default.&#39;</p>",
+        "body": "<p dir=\"ltr\">Another barrier to achieving impact is when people don&rsquo;t use the data out of fear. Some licences are unclear, particularly around the use of third party or personal data that is found in the dataset. Often &lsquo;no warranty&rsquo; clauses can make it seem that the user would be liable in this case.</p><p>In order to overcome this barrier, publishers should be clear about the legal underpinning of the data and how what users can do with the data.</p><p>Clearly explaining the licence terms will help this. Providing&nbsp;information on the privacy control process, privacy impact assessment if dealing with individuals&rsquo; data and publishing the process that was followed to anonymise the data will help to reassure users.</p>",
         "_graphic": {
           "src": "course/en/assets/eb7c7b7bfff664aef851578a795efa612ea1a806.jpg",
           "alt": "",
@@ -1466,14 +1344,14 @@
         "strapline": "Fear of breaching data protection"
       },
       {
-        "title": "Data quality",
-        "body": "<p>Another barrier to open data is the fear that the data will not be of good quality.</p><p>There are a number of community based standards that can help you, both as a publisher and a user, to assess the quality of your data. Find out more in <a href=\"https://www.europeandataportal.eu/elearning/en/module5/#/id/co-01\">what makes quality open data</a>.</p><p>Your organisation may have guidelines or principles that can help you assess the quality of the data you are using.</p><p>However, there is no such thing as perfect data, as how good a dataset is will depend on the needs of the person using it.</p>",
+        "title": "Data quality and usability concerns",
+        "body": "<p>Another barrier to the reuse of&nbsp;open data is the fear that the data will not be of good quality.</p><p>There are a number of community based standards that can help you, both as a publisher and a user, to assess the quality of your data and usability.</p><p>Making sure that your data is useable, from a legal, practical and social perspective will encourage reuse and achieve impact.&nbsp;</p><p>Find out more in <a href=\"https://www.europeandataportal.eu/elearning/en/module5/#/id/co-01\">what makes quality open data</a></p>",
         "_graphic": {
           "src": "course/en/assets/b0a1356f5ad57eff61e6a22b69a2e1b6d9773220.jpg",
           "alt": "",
           "attribution": "<a href=\"robodread\" target=\"_blank\">robodread</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
         },
-        "strapline": "Data quality"
+        "strapline": "Data quality and usability"
       }
     ]
   },
@@ -1623,9 +1501,9 @@
     "_questionWeight": 1,
     "_selectable": 1,
     "_feedback": {
-      "correct": "<p><strong>That&#39;s right!</strong></p><p>Reducing costs and being efficient are priorities&nbsp;for those in operations roles.&nbsp;The ability to access, use and share data across multiple platforms and between numerous organisations eradicates the time and cost normally associated with acquiring valuable datasets.</p><p>&nbsp;</p>",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Reducing costs and being efficient are priorities for those in operations roles. The ability to access, use and share data across multiple platforms and between numerous organisations minimises the time and cost normally associated with acquiring valuable data.</p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure?</strong></p><p>Reducing costs and being efficient are priorities&nbsp;for those in operations roles.&nbsp;The ability to access, use and share data across multiple platforms and between numerous organisations eradicates the time and cost normally associated with acquiring valuable datasets.</p>",
+        "final": "<p><strong>Are you sure?</strong></p><p>Reducing costs and being efficient are priorities for those in operations roles. The ability to access, use and share data across multiple platforms and between numerous organisations minimises the time and cost normally associated with acquiring valuable data.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -1842,7 +1720,7 @@
     "_layout": "full",
     "_parentId": "590b31abd084d5167a04e163",
     "_type": "component",
-    "body": "<p>There are a number of assessment tools that can help you assess the impact of an organisation or country&#39;s open data policy, programme or initiative. Each assessment tool uses&nbsp;slightly different methodologies and measurements, so find the one that works best for your context. Think about which criteria are important for your organisation.</p><p>This module looks in detail at the European Data Portal&#39;s&nbsp;<a href=\"https://www.europeandataportal.eu/en/dashboard\" target=\"_blank\">Open Data in Europe</a>&nbsp;which compares the open data initiatives of European Union countries.</p><p dir=\"ltr\">You can also look at <a href=\"https://index.okfn.org/\" target=\"_blank\">Global Open Data Index</a> and <a href=\"http://opendatabarometer.org\" target=\"_blank\">Open Data Barometer</a>&nbsp;which compare countries internationally.</p><p dir=\"ltr\">Open Data in Europe looks at three areas of impact: <strong>political, economic and social.</strong></p>",
+    "body": "<p>There are a number of assessment tools that can help you assess the impact of an organisation or country&#39;s open data policy, programme or initiative. Each assessment tool uses&nbsp;slightly different methodologies and measurements, so find the one that works best for your context. Think about which criteria are important for your organisation.</p><p>This module looks in detail at the European Data Portal&#39;s&nbsp;<a href=\"https://www.europeandataportal.eu/en/dashboard\" target=\"_blank\">Open Data in Europe tool</a>&nbsp;that&nbsp;compares the open data initiatives of European Union countries.</p><p dir=\"ltr\">You can also look at <a href=\"https://index.okfn.org/\" target=\"_blank\">Global Open Data Index</a> and <a href=\"http://opendatabarometer.org\" target=\"_blank\">Open Data Barometer</a>&nbsp;which compare countries internationally.</p><p dir=\"ltr\">Open Data in Europe looks at three areas of impact: <strong>political, economic and social.</strong></p>",
     "displayTitle": " How do we measure impact?",
     "title": " How do we measure impact?",
     "_isAvailable": true,
@@ -1859,7 +1737,7 @@
     "_items": [
       {
         "title": "Political",
-        "body": "<p dir=\"ltr\">The factors that make up the political impact indicator are impact on government efficiency and effectiveness and impact on transparency and accountability.</p><p dir=\"ltr\">In 2016, the highest scoring countries for political impact were Slovakia, Ireland, Bulgaria, France, Greece.</p><p dir=\"ltr\"><a href=\"https://www.europeandataportal.eu/en/dashboard\">Get the data</a></p><p dir=\"ltr\">In Bulgaria, government departments no longer require requesting data from other departments as that data is now published openly, thus saving the time and cost involved in requesting data.</p>",
+        "body": "<p dir=\"ltr\">The factors that make up the political impact indicator are impact on government efficiency and effectiveness and impact on transparency and accountability.</p><p dir=\"ltr\">In 2016, the highest scoring countries for political impact were Slovakia, Ireland, Bulgaria, France, Greece.</p><p dir=\"ltr\"><a href=\"https://www.europeandataportal.eu/en/dashboard\">Get the data</a></p><p dir=\"ltr\">In Bulgaria, government departments no longer need to request&nbsp;data from other departments as that data is now published openly, thus saving the time and cost involved in requesting data.</p>",
         "_graphic": {
           "src": "course/en/assets/3f1d65f956a8899071b4f3584b4a88d3851863df.jpg",
           "alt": "",
@@ -1879,7 +1757,7 @@
       },
       {
         "title": "Social",
-        "body": "<p dir=\"ltr\">The social impact indicator includes impact on environmental sustainability &nbsp;and the inclusion of marginalised groups in policymaking and the accessing government services.</p><p dir=\"ltr\">The two highest scoring countries in 2016 were Spain and the UK.</p><p><a href=\"https://www.europeandataportal.eu/en/dashboard\" target=\"_blank\">Get the data</a></p><p>In Spain, one example of including marginalised groups is&nbsp;<a href=\"http://www.sinbarrera.es/\">Sin Barrera32</a>, a tool for finding car parking spaces that are accessible for wheelchair access.</p>",
+        "body": "<p dir=\"ltr\">The social impact indicator includes impact on environmental sustainability and the inclusion of marginalised groups in policymaking and in accessing government services.</p><p dir=\"ltr\">The two highest scoring countries in 2016 were Spain and the UK.</p><p><a href=\"https://www.europeandataportal.eu/en/dashboard\" target=\"_blank\">Get the data</a></p><p>In Spain, one example of including marginalised groups is&nbsp;<a href=\"http://www.sinbarrera.es/\">Sin Barrera32</a>, a tool for finding car parking spaces that are accessible for wheelchair access.</p>",
         "_graphic": {
           "src": "course/en/assets/194749d6a3d955ccf1327dff670d11d82f1e5892.jpg",
           "alt": "",
@@ -1908,7 +1786,7 @@
     "_items": [
       {
         "title": "Identify shared goals",
-        "body": "<p>The first thing to think about is what you are trying to achieve. What is your end-goal for publishing your data openly? Having a clearly defined vision is crucial to the success of an open data initiative, programme or project.</p><p>Next, think about your potential data users. What are their goals? How would your data help them to achieve them?</p><p>The most successful open data publications align the goals of providers with users. It&#39;s rare that everyone starts out with identical goals, so look for areas where those goals overlap. The more closely aligned the goals are, the more successful the publication tends to be.</p>",
+        "body": "<p>The first thing to think about is what you are trying to achieve. What is your end-goal for publishing your data openly? Having a clearly defined vision is crucial to the success of an open data initiative, programme or project.</p><p>Next, think about your potential data users. What are their goals? How would your data help them to achieve these goals?</p><p>The most successful open data initiatives&nbsp;align the goals of providers with users. It&#39;s rare that everyone starts out with identical goals, so look for areas where those goals overlap. The more closely aligned the goals are, the more successful the publication tends to be.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1918,7 +1796,7 @@
       },
       {
         "title": "Seek out and foster stories",
-        "body": "<p dir=\"ltr\">Another method to help&nbsp;achieve impact is seeking out and fostering stories. Sometimes stories manifest themselves, but more commonly they need to be cultivated.</p><p dir=\"ltr\">Perform, commission or identify research into the impact of your organisation&rsquo;s current or potential activities so that you can very clearly communicate the impact that your&nbsp;programme, project or initiative&nbsp;has&nbsp;achieved.</p>",
+        "body": "<p dir=\"ltr\">A good method to help&nbsp;demonstrate&nbsp;impact is seeking out and fostering stories. Sometimes stories manifest themselves, but more commonly they need to be cultivated.</p><p dir=\"ltr\">Perform, commission or identify research into the impact of your organisation&rsquo;s current or potential activities so that you can very clearly communicate the impact that your&nbsp;programme, project or initiative&nbsp;has&nbsp;achieved.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1928,7 +1806,7 @@
       },
       {
         "title": "Reflect, iterate, reiterate",
-        "body": "<p>It can be hard to look back&nbsp;at&nbsp;what has already happened as a result of the project, and the reasons why it has or hasn&#39;t been successful.</p><p>Give yourself the time to reflect, so that you can be flexible and iterative in your approach. If something isn&#39;t working, don&#39;t be afraid to remove it from the scope of work.</p><p>Iterating and reiterating means that your&nbsp;open data project, programme or initiative is much more likely to achieve impact.</p>",
+        "body": "<p>It can be hard to look back&nbsp;at&nbsp;what has already happened as a result of the project, and the reasons why it has or hasn&#39;t been successful.</p><p>Give yourself the time to reflect, so that you can be flexible and iterative in your approach. If something isn&#39;t working, don&#39;t be afraid to remove it from the scope of work.</p><p>Iterating and refining&nbsp;your approach means that your&nbsp;open data project, programme or initiative is much more likely to achieve impact.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1992,9 +1870,9 @@
     "_questionWeight": 1,
     "_selectable": 3,
     "_feedback": {
-      "correct": "<p><strong>That&#39;s right!</strong></p><p>Impact can be achieved though identifying shared goals of data publishers and users, seeking out and fostering stories and reflecting and reiterating on an initiative.&nbsp;</p>",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Impact can be achieved though identifying shared goals of data publishers and users, seeking out and fostering stories through commissioning&nbsp;research and reflecting and reiterating on an initiative.&nbsp;</p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure?</strong></p><p>Impact can be achieved though identifying shared goals of data publishers and users, seeking out and fostering stories and reflecting and reiterating on an initiative.&nbsp;</p>",
+        "final": "<p><strong>Are you sure?</strong></p><p>Impact can be achieved though identifying shared goals of data publishers and users, seeking out and fostering stories through commissioning&nbsp;research and reflecting and reiterating on an initiative.&nbsp;</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -2032,7 +1910,7 @@
     "_layout": "right",
     "_parentId": "590b31abd084d5167a04e15e",
     "_type": "component",
-    "body": "<p><strong>One key barrier to achieving impact is a lack of wider support. How can you overcome this barrier?</strong></p>",
+    "body": "<p><strong>One key barrier to achieving impact is if there is no engagement with your data. How can you overcome this barrier?</strong></p>",
     "displayTitle": "Overcoming barriers",
     "title": "Overcoming barriers",
     "_isAvailable": true,
@@ -2045,17 +1923,17 @@
     "instruction": "Choose your answer, then click 'Submit'",
     "_items": [
       {
-        "text": "By clearly articulating your vision and emphasising the benefits for your audience",
+        "text": "By promoting your data, clarifying how users can reuse your data and making your data usable",
         "_shouldBeSelected": true,
         "feedback": ""
       },
       {
-        "text": "By ignoring those who don't support you",
+        "text": "By publishing as much data as possible",
         "_shouldBeSelected": false,
         "feedback": ""
       },
       {
-        "text": "By giving up",
+        "text": "By charging for your data",
         "_shouldBeSelected": false,
         "feedback": ""
       }
@@ -2070,9 +1948,9 @@
     "_questionWeight": 1,
     "_selectable": 1,
     "_feedback": {
-      "correct": "<p><strong>That&#39;s right!</strong></p><p>Convincing your colleagues, manager or funder to the value of open data is one of the biggest barriers. The way to overcome this barrier is to have a strong vision that you can clearly articulate.</p>",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>You can encourage reuse of your data by promoting your data, clarifying how users can reuse your data and making your data more usable.</p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure?</strong></p><p dir=\"ltr\">Convincing your colleagues, manager or funder to the value of open data is one of the biggest barriers. The way to overcome this barrier is to have a strong vision that you can clearly articulate.</p>",
+        "final": "<p><strong>Are you sure?</strong></p><p dir=\"ltr\">You can encourage reuse of your data by promoting your data, clarifying how users can reuse your data and making your data more usable.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -2259,5 +2137,194 @@
       "small": "course/en/assets/7120bb7ad02055a11589656852c821cae30bf616.png",
       "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
     }
+  },
+  {
+    "_id": "5925415ed084d5167a04eaba",
+    "_layout": "full",
+    "_parentId": "592540c3d084d5167a04eab9",
+    "_type": "component",
+    "body": "<p>To find more examples of the practical application of open data take a look the European Data Portal&#39;s <a href=\"https://www.europeandataportal.eu/sites/default/files/re-using_open_data.pdf\" target=\"_blank\">report on the reuse of open data</a>, or browse the growing <a href=\"https://www.europeandataportal.eu/en/using-data/use-cases\" target=\"_blank\">list of use cases</a>.</p>",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5928100ad084d5167a04eb03",
+    "_layout": "left",
+    "_parentId": "5928100ad084d5167a04eb01",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/1df129630da9e360cea725c7c5eebda0b337c7ba.jpg",
+      "small": "course/en/assets/1df129630da9e360cea725c7c5eebda0b337c7ba.jpg",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Jannoon028 / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5928100ad084d5167a04eb02",
+    "_layout": "right",
+    "_parentId": "5928100ad084d5167a04eb01",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">There is a myth that open data is just a technological problem. But the technology for open data has already existed for twenty years, yet open data hasn&rsquo;t. One of the biggest changes in that time is the demand for transparency, driven by scandals like the UK <a href=\"https://en.wikipedia.org/wiki/United_Kingdom_parliamentary_expenses_scandal\">MPs expenses scandal in 2009</a> and the <a href=\"https://www.britannica.com/topic/FIFA-Corruption-Scandal-The-2076091\">FIFA corruption scandal in 2016</a>.</p><p dir=\"ltr\">The majority of organisations are still very comfortable with being closed by default, only granting access to information and data upon request or as part of sharing agreements. Open by default is the mindset that all data and information should be opened automatically, unless there is a strong justification for why it should be closed.&nbsp;Change management is critical both to the success of the project and to help people through the process who will struggle with the mindset changes required.</p><p>To help with this change management process, the <a href=\"http://opendatacharter.net/\">Open Data Charter</a> provides a set of principles for a successful open data initiative. Many countries have already signed up to the Charter, including &nbsp;<a href=\"http://opendatacharter.net/adopted-by-countries-and-cities/\">France, Italy and the UK</a>. The <a href=\"http://opendatacharter.net/ukraine-used-charter-develop-open-data-roadmap/\">Ukraine has used the charter to help inform its its long term roadmap</a> and to get buy-in from all parts of government.</p>",
+    "displayTitle": "Why is change management important for open data initiatives?",
+    "title": "Why is change management important for open data initiatives?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58eb788bd084d5167a04d522",
+    "_layout": "left",
+    "_parentId": "58eb788bd084d5167a04d4fd",
+    "_type": "component",
+    "body": "<p>Effective management is essential for the success of&nbsp;any project or initiative. Change management is no exception. Below we explore some of the key reasons why we need to manage the process of change.</p>",
+    "displayTitle": "Why is change management needed?",
+    "title": "Why is change management needed?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Change doesn't happen overnight",
+        "body": "<p dir=\"ltr\">It is almost impossible to implement change overnight, especially in large organisations. Over time, organisations get used to operating in a certain way and it takes time to change those ways.</p><p dir=\"ltr\">As implementing change takes time, there needs to be a person, or a team of people, who are dedicated to overseeing and managing the change process. This also serves to ensure that the process continues.</p><p dir=\"ltr\">A <a href=\"http://www.nortonrosefulbright.com/knowledge/publications/136571/the-digital-transformation-of-the-german-emmittelstandem\">report from Germany</a> found that collaboration is key to change management and digital transformation in Small and Medium-size Enterprises.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Reducing risk",
+        "body": "<p>Managing the process of change reduces the overall risks to an organisation.</p><p>There are different reasons why an organisation wishes to implement a change management process. Sometimes this can be due to&nbsp;negative impacts from their current process, system, structure or way of working.</p><p dir=\"ltr\">In these cases, it is a risk to maintain the current situation as it might lead to a loss in revenue or a decline in the organisation&#39;s reputation. This was the case with <a href=\"https://www.landmark.co.uk/\">Landmark</a>, a UK company whose business model was about to disappear as they data they relied on selling to others became open. To avoid disaster <a href=\"https://theodi.org/lunchtime-lectures/friday-lunchtime-lecture-changing-tracks-with-hs2-open-data\" target=\"_blank\">they had to change their business</a>, led by the CEO and driven by the team.</p><p>However, it might be equally&nbsp;risky to implement change too quickly.&nbsp;Managing the change process is a way to control&nbsp;these risks and make sure that the change is positive.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Ensuring sustainability",
+        "body": "<p dir=\"ltr\">Managing the process of change is critical for its sustainability. Having a clear leader who is managing the change process means that the change is more likely to be sustainable long term. This doesn&#39;t necessarily have to be the most senior person in the organisation, but they do need to be able to make decisions.</p><p dir=\"ltr\">They appoint others to drive the change alongside them who have the necessary skills and responsibilities to make alterations in how the organisation works. This is especially the case in Europe with digital and data where it is now a requirement for organisations to have a data protection officer if they are handling customer data. As digital and open become the norms, change management and having the right people to lead it will be critical to the success of an organisation.</p><p>It is also part of this role to&nbsp;ensure that others, both&nbsp;internal and external to the organisation, understand why the change is needed and that they support that change. Without this support, any change is unlikely to be sustainable.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "58eb788bd084d5167a04d528",
+    "_layout": "full",
+    "_parentId": "58eb788bd084d5167a04d500",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">There are several key elements necessary to successfully manage change within an organisation. These elements are relevant to both the private and the public sectors.</p>",
+    "displayTitle": "What are the key elements of change management?",
+    "title": "What are the key elements of change management?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Clear vision",
+        "body": "<p dir=\"ltr\">Having a&nbsp;clear vision is important for change management in order to get internal and external support for the initiative. This vision should align to the organisation&#39;s goals, otherwise it will jar with the values, brand or image of the organisation.</p><p dir=\"ltr\">In relation to open data, this vision should outline aspects such as being open by default, where all data will be available from, under which&nbsp;licence.</p><p>The leader of the project needs to be able to articulate this vision to ensure support internally and externally.<a href=\"http://www.computerweekly.com/news/450284803/France-takes-the-lead-in-the-global-open-data-race\"> </a></p><p>In France, a <a href=\"http://www.computerweekly.com/news/450284803/France-takes-the-lead-in-the-global-open-data-race\">Government Chief Data Officer</a> has been appointed to do just this, reporting on progress on winning support inside and outside government.</p>",
+        "_graphic": {
+          "src": "course/en/assets/e476d5412f3c230ba6365724bc2935db25901c21.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic-238771996.html\" target=\"_blank\">Mangsaab</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Clear vision"
+      },
+      {
+        "title": "Update your data management plan",
+        "body": "<p dir=\"ltr\">Every organisation should have a data management plan which explains how data is stored, backed-up and accessed. Data is part of a modern company&rsquo;s infrastructure, and just like buildings and other assets, it needs careful management.</p><p>Open data shouldn&rsquo;t be viewed as a separate activity to the key data management activities. A good starting point to integrating open data to your data management plan is to apply the vision to it. This helps ensure the integration of the strategy into the long term processes and operating procedures of the organisation.</p>",
+        "_graphic": {
+          "src": "course/en/assets/3aeeed43e4590c3367e4ebeff4b6ff25ddc6ee28.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Update your data management plan"
+      },
+      {
+        "title": "Senior buy-in",
+        "body": "<p>With any programme of change, it is common for those driving it to meet some resistance from within their organisations.</p><p>Active support from senior figures can help to encourage institutional buy-in.</p><p>Working with these senior figures&nbsp;is critical, as an &lsquo;insurgency strategy&rsquo; to introduce change is unlikely to be sustainable</p>",
+        "_graphic": {
+          "src": "course/en/assets/4b63c6af07902f3f8460f8a4ca00a26d4df61cf9.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://pixabay.com/en/building-blocks-toys-block-building-717309/\" target=\"_blank\">Spowell</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Senior buy-in"
+      },
+      {
+        "title": "Keeping on track",
+        "body": "<p dir=\"ltr\">As well as a data management plan, organisations need to put in place key processes and lifecycles that detail how to transition to, and then maintain their open data.</p><p dir=\"ltr\">Aligning these plans and lifecycles with Key Performance Indicators (KPIs) to evaluate success will help justify investment of time and money in the change programme.</p><p>When designing KPIs, think about what will have the most impact. Within open data initiatives, don&rsquo;t just think about the narrowness of number of datasets put online, but also their impact and alignment with external measures of success including the European Data Portal&rsquo;s own <a href=\"https://www.europeandataportal.eu/en/highlights/open-data-maturity-europe\">Open Data Maturity index</a> which is a good measure of change within countries.</p>",
+        "_graphic": {
+          "src": "course/en/assets/2b5ec4242610756a70a3b5e12afaf1626f3f0d02.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/3d-illustration-concept-kpi-174926546\" target=\"_blank\">leromin</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Keeping on track"
+      },
+      {
+        "title": "Communicating impact",
+        "body": "<p dir=\"ltr\">Understanding the impact of a change process will help to secure its future.</p><p dir=\"ltr\">Those driving forward a change programme should focus on the tangible impact that is a direct result of the programme. A good place to focus is quick wins: areas where low effort will result in immediate impact.</p><p dir=\"ltr\">Clearly communicating impact stories will help gain support from all those involved in the programme.</p><p>In the public sector, many countries showcase examples where others are using their open data, including <a href=\"http://datos.gob.es/es/iniciativas\">Spain</a>, <a href=\"https://data.gov.ie/showcase\">Ireland</a> and <a href=\"http://www.data.gouv.fr/fr/\">France</a>.</p>",
+        "_graphic": {
+          "src": "course/en/assets/1eef9340d96e57e84343777b61a3c23d138d02d7.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366\" target=\"_blank\">Sergey Nivens</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Communicating impact"
+      },
+      {
+        "title": "Align your priorities with your funder",
+        "body": "<p>Align&nbsp;the priorities of the project, programme or initiative with the priorities of the person responsible for the budget.</p><p>This could be the CEO of your company, or the organisation that manages your funding. It might even be your customers who ask for open data that they can share with others as was the case for Thomson Reuters. You can read the full white paper <a href=\"https://theodi.org/guides/data-identifiers-white-paper\">here</a>.</p><p>Aligning your priorities will help ensure the sustainability and the impact&nbsp;of your programme.</p>",
+        "_graphic": {
+          "src": "course/en/assets/7fec32b99da9f008a88d2622d258aaea82bf1513.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/background-colorful-airplanes-vector-illustration-103013084?src=id\" target=\"_blank\">Laralova</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Align your priorities with your funder"
+      }
+    ]
   }
 ]
