@@ -724,23 +724,6 @@
     }
   },
   {
-    "_id": "592ff8b7d084d5167a04eb5b",
-    "_layout": "left",
-    "_parentId": "592ff8b7d084d5167a04eb2b",
-    "_type": "component",
-    "body": "<p>L&rsquo;ouverture des donn&eacute;es peuvent &ecirc;tre une activit&eacute; de grande valeur pour toutes organisations. Que ce soit pour g&eacute;n&eacute;rer de l&#39;innovation dans une entreprise, d&eacute;velopper une image plus claire des op&eacute;rations ou am&eacute;liorer les produits et services, un nombre important d&#39;organisations du secteur priv&eacute; et public b&eacute;n&eacute;ficient maintenant de la publication et de l&#39;utilisation de donn&eacute;es ouvertes.</p><p>Cependant l&rsquo;ouverture des donn&eacute;es peut exiger un changement dans la culture d&#39;une organisation. La plupart des organisations sont configur&eacute;es pour prot&eacute;ger leurs ressources de donn&eacute;es, m&ecirc;me si les avantages de l&#39;ouverture l&#39;emportent sur les frais associ&eacute;s. La solution pour surmonter cette r&eacute;sistance est &eacute;vidente, une communication efficace des avantages que l&#39;open data (ou donn&eacute;es ouvertes) peuvent apporter et apportent.</p><p>Ce module vous pr&eacute;parera &agrave; effectuer un pitch sur mesure pour les donn&eacute;es ouvertes qui mets l&rsquo;accent sur la valeur et r&eacute;pond aux risques.</p><p>Dans ce module, nous allons explorer comment:</p><ul><li>Structurez le pitch parfait</li><li>Identifiez diff&eacute;rents publics pour votre pitch</li><li>Adaptez votre pitch selon diff&eacute;rents publics</li></ul>",
-    "displayTitle": "Mobilisation pour l'open data",
-    "title": "Mobilisation pour l'open data",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "ticks",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
     "_id": "592ff8b7d084d5167a04eb51",
     "_layout": "right",
     "_parentId": "592ff8b7d084d5167a04eb2c",
@@ -762,7 +745,7 @@
     "_layout": "left",
     "_parentId": "592ff8b7d084d5167a04eb2d",
     "_type": "component",
-    "body": "<p>Vous devriez commencer votre &quot;elevator pitch&quot; (argumentaire &eacute;clair) en d&eacute;crivant le probl&egrave;me que vous r&eacute;solvez pour vos utilisateurs. Ceci est ce qu&#39;on appelle la proposition de valeur.</p><p>La proposition de valeur d&#39;une entreprise est le noyau de son mod&egrave;le d&#39;entreprise. Ceci est &eacute;galement ad&eacute;quat dans les secteurs priv&eacute; et public. Sans une proposition de valeur solide, l&#39;organisation - qu&#39;il s&#39;agisse d&#39;une grande entreprise, d&#39;une start-up, d&#39;une autorit&eacute; locale ou d&#39;une charit&eacute;, n&#39;a pas de motif pour continuer &agrave; fournir ses services.</p><p>Top conseil: pensez &agrave; votre proposition de valeur comme un abr&eacute;g&eacute; ou r&eacute;sum&eacute; de votre solution. Gardez-le court, restez rapide et utilisez une liste de trois.</p><p>Par exemple: les donn&eacute;es ouvertes peuvent am&eacute;liorer la r&eacute;putation de votre entreprise, am&eacute;liorer l&#39;exp&eacute;rience de vos clients et diversifier votre gamme de produits.</p>",
+    "body": "<p>Vous devriez commencer votre &quot;elevator pitch&quot; (argumentaire &eacute;clair) en d&eacute;crivant le probl&egrave;me que vous r&eacute;solvez pour vos utilisateurs. Ceci est ce qu&#39;on appelle la proposition de valeur.</p><p>La proposition de valeur d&#39;une entreprise est le noyau de son mod&egrave;le d&#39;entreprise. Ceci est &eacute;galement ad&eacute;quat dans les secteurs priv&eacute;s et publics. Sans une proposition de valeur solide, l&#39;organisation - qu&#39;il s&#39;agisse d&#39;une grande entreprise, d&#39;une start-up, d&#39;une autorit&eacute; locale ou d&#39;une charit&eacute;, n&#39;a pas de motif pour continuer &agrave; fournir ses services.</p><p>Top conseil: pensez &agrave; votre proposition de valeur comme un abr&eacute;g&eacute; ou r&eacute;sum&eacute; de votre solution. Gardez-le court, restez rapide et utilisez une liste de trois.</p><p>Par exemple: les donn&eacute;es ouvertes peuvent am&eacute;liorer la r&eacute;putation de votre entreprise, am&eacute;liorer l&#39;exp&eacute;rience de vos clients et diversifier votre gamme de produits.</p>",
     "displayTitle": "Quel problème résolvez-vous?",
     "title": "Quel problème résolvez-vous?",
     "_isAvailable": true,
@@ -779,7 +762,7 @@
     "_layout": "full",
     "_parentId": "592ff8b7d084d5167a04eb48",
     "_type": "component",
-    "body": "<p>Pour plus d&#39;exemples de mise en pratique des donn&eacute;es ouvertes, consulter le <a href=\"http://www.europeandataportal.eu/sites/default/files/re-using_open_data.pdf\">rapport du European Data Portal sur la r&eacute;utilisation des donn&eacute;es ouvertes</a>, ou parcourez la <a href=\"http://www.europeandataportal.eu/en/using-data/use-cases\">liste croissante des cas d&#39;utilisation</a>.</p>",
+    "body": "<p>Pour plus d&#39;exemples de mise en pratique des donn&eacute;es ouvertes, consultez&nbsp;le <a href=\"http://www.europeandataportal.eu/sites/default/files/re-using_open_data.pdf\">rapport du European Data Portal sur la r&eacute;utilisation des donn&eacute;es ouvertes</a>, ou parcourez la <a href=\"http://www.europeandataportal.eu/en/using-data/use-cases\">liste croissante des cas d&#39;utilisation</a>.</p>",
     "displayTitle": " ",
     "title": " ",
     "_isAvailable": true,
@@ -796,7 +779,7 @@
     "_layout": "left",
     "_parentId": "592ff8b7d084d5167a04eb30",
     "_type": "component",
-    "body": "<p>C&#39;est la partie de votre pitch o&ugrave; vous pouvez expliquer plus en d&eacute;tail votre proposition de valeur. Ne vous souciez pas de vous r&eacute;p&eacute;ter. La r&eacute;p&eacute;tition est la cl&eacute;.</p><p>La premi&egrave;re fois que vous avez expim&eacute; votre proposition de valeur, vous vouliez attirer l&#39;attention de votre public. Maintenant que vous avez leur attention, et que vous leur avez expliqu&eacute; les avantages, vous pouvez expliquer votre solution plus en d&eacute;tail.</p><p>C&#39;est aussi votre opportunit&eacute; de justifier pourquoi votre solution est meilleure que les solutions alternatives. Vous pouvez donner des exemples comp&eacute;titifs si ad&eacute;quat, ou bien des exemples o&ugrave; le partage des donn&eacute;es ont re&ccedil;u des cons&eacute;quences positives afin souligner votre point.</p><p>Utilisez une liste de trois pour un impact maximal, et rappelez-vous: la r&eacute;p&eacute;tition est la cl&eacute;.</p>",
+    "body": "<p>C&#39;est la partie de votre pitch o&ugrave; vous pouvez expliquer plus en d&eacute;tail votre proposition de valeur. Ne vous souciez pas de vous r&eacute;p&eacute;ter. La r&eacute;p&eacute;tition est cl&eacute;.</p><p>La premi&egrave;re fois que vous avez exprim&eacute; votre proposition de valeur, vous voulez attirer l&#39;attention de votre public. Maintenant que vous avez leur attention, et que vous leur avez expliqu&eacute; les avantages, vous pouvez expliquer votre solution plus en d&eacute;tail.</p><p>C&#39;est aussi votre opportunit&eacute; de justifier pourquoi votre solution est meilleure que les solutions alternatives. Vous pouvez donner des exemples comp&eacute;titifs&nbsp;le cas &eacute;ch&eacute;ant, ou bien des exemples o&ugrave; le partage des donn&eacute;es a&nbsp;re&ccedil;u des cons&eacute;quences positives afin souligner votre point.</p><p>Utilisez une liste de trois pour un impact maximal, et n&#39;oubliez pas: la r&eacute;p&eacute;tition est&nbsp;cl&eacute;.</p>",
     "displayTitle": "Pourquoi l'open data est la meilleure option",
     "title": "Pourquoi l'open data est la meilleure option",
     "_isAvailable": true,
@@ -813,7 +796,7 @@
     "_layout": "left",
     "_parentId": "592ff8b7d084d5167a04eb36",
     "_type": "component",
-    "body": "<p><strong>Les cinq &eacute;l&eacute;ments pour un&nbsp;data pitch parfait inclus...</strong></p>",
+    "body": "<p><strong>Les cinq &eacute;l&eacute;ments pour un&nbsp;data pitch parfait incluent...</strong></p>",
     "displayTitle": "Quels sont les cinq éléments pour un data pitch parfait?",
     "title": "Quels sont les cinq éléments pour un data pitch parfait?",
     "_isAvailable": true,
@@ -1147,7 +1130,7 @@
     "_layout": "right",
     "_parentId": "592ff8b7d084d5167a04eb2e",
     "_type": "component",
-    "body": "<p>Il existe de nombreux arguments g&eacute;n&eacute;raux pour l&#39;utilisation des donn&eacute;es ouvertes, mais un argument solide doit &ecirc;tre ajust&eacute; aux priorit&eacute;s et aux pr&eacute;occupations du public du pitch et du d&eacute;cideur.</p><p>Dans la plupart des cas, cela peut &ecirc;tre d&eacute;termin&eacute; &agrave; partir de leur contexte professionnel. Ci-dessous, nous examinons quatre r&ocirc;les principaux, associ&eacute;s aux avantages les plus ad&eacute;quat d&#39;une meilleure utilisation des donn&eacute;es.</p>",
+    "body": "<p>Il existe de nombreux arguments g&eacute;n&eacute;raux pour l&#39;utilisation des donn&eacute;es ouvertes, mais un argument solide doit &ecirc;tre ajust&eacute; aux priorit&eacute;s et aux pr&eacute;occupations du public du pitch et du d&eacute;cideur.</p><p>Dans la plupart des cas, cela peut &ecirc;tre d&eacute;termin&eacute; &agrave; partir de leur contexte professionnel. Ci-dessous, nous examinons quatre r&ocirc;les principaux, associ&eacute;s aux avantages les plus ad&eacute;quats d&#39;une meilleure utilisation des donn&eacute;es.</p>",
     "displayTitle": "Ce que l'open data peut faire",
     "title": "Ce que l'open data peut faire",
     "_isAvailable": true,
@@ -1243,14 +1226,14 @@
         "strapline": "Améliorer la prestation des services"
       },
       {
-        "title": "Reduire les coûts",
-        "body": "<p dir=\"ltr\">Les donn&eacute;es ouvertes peuvent aider les entreprises &agrave; r&eacute;duire leurs co&ucirc;ts et &agrave; &ecirc;tre plus efficaces dans leurs op&eacute;rations.</p><p>Le g&eacute;ant su&eacute;dois de la musique en streaming Spotify et BBC du Royaume-Uni utilisent tous deux <a href=\"http://musicbrainz.org/\">le service de donn&eacute;es ouvert MusicBrainz</a> pour compl&eacute;ter leurs services de musique et am&eacute;liorer l&#39;exp&eacute;rience de leurs utilisateurs sans avoir &agrave; investir dans le maintien du catalogue eux-m&ecirc;mes.</p><p>En Slov&eacute;nie, les viticulteurs utilisent des donn&eacute;es ouvertes pour les aider &agrave; <a href=\"http://www.evineyardapp.com/\">prendre des d&eacute;cisions plus intelligentes</a> avec eVineyard, alors qu&#39;en Hongrie, <a href=\"http://filab.hu/2016/05/saving-food-2-0-2/\">une r&eacute;volution pour arr&ecirc;ter les d&eacute;chets alimentaires</a> est en cours, construite autour des donn&eacute;es ouvertes et de la collaboration.</p>",
+        "title": "Réduire les coûts",
+        "body": "<p dir=\"ltr\">Les donn&eacute;es ouvertes peuvent aider les entreprises &agrave; r&eacute;duire leurs co&ucirc;ts et &agrave; &ecirc;tre plus efficaces dans leurs op&eacute;rations.</p><p>Le g&eacute;ant su&eacute;dois de la musique en streaming Spotify et BBC du Royaume-Uni utilisent tous les deux <a href=\"http://musicbrainz.org/\">le service de donn&eacute;es ouvert MusicBrainz</a> pour compl&eacute;ter leurs services de musique et am&eacute;liorer l&#39;exp&eacute;rience de leurs utilisateurs sans avoir &agrave; investir dans le maintien du catalogue eux-m&ecirc;mes.</p><p>En Slov&eacute;nie, les viticulteurs utilisent des donn&eacute;es ouvertes pour les aider &agrave; <a href=\"http://www.evineyardapp.com/\">prendre des d&eacute;cisions plus intelligentes</a> avec eVineyard, alors qu&#39;en Hongrie, <a href=\"http://filab.hu/2016/05/saving-food-2-0-2/\">une r&eacute;volution pour arr&ecirc;ter les d&eacute;chets alimentaires</a> est en cours, construite autour des donn&eacute;es ouvertes et de la collaboration.</p>",
         "_graphic": {
           "src": "course/en/assets/695142676da7c48878111f3e0cdfd728d9d05718.png",
           "alt": "",
           "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
         },
-        "strapline": "Reduire les coûts"
+        "strapline": "Réduire les coûts"
       },
       {
         "title": "Améliorer la réputation",
@@ -1303,7 +1286,7 @@
       },
       {
         "title": "Attentes précises",
-        "body": "<p>Assurez-vous que vous d&eacute;finissez des attentes pr&eacute;cises pour ce que vous demandez. Les aspects tels que l&#39;&eacute;ch&eacute;ancier, les ressources et l&#39;impact potentiel devraient &ecirc;tre au c&oelig;ur de la gestion des attentes.</p><p>Si l&#39;auditeur estime que les contraintes de d&eacute;lai ou de ressourcement limitent l&#39;opportunit&eacute;, ils peuvent m&ecirc;me &ecirc;tre en mesure d&#39;aider. &Ecirc;tant ouvert et raisonnable aidera l&#39;auditeur &agrave; devenir engag&eacute; dans votre argument.</p>",
+        "body": "<p>Assurez-vous que vous d&eacute;finissez des attentes pr&eacute;cises pour ce que vous demandez. Les aspects tels que l&#39;&eacute;ch&eacute;ancier, les ressources et l&#39;impact potentiel devraient &ecirc;tre au c&oelig;ur de la gestion des attentes.</p><p>Si l&#39;auditeur estime que les contraintes de d&eacute;lai ou de ressourcement limitent l&#39;opportunit&eacute;, ils peuvent m&ecirc;me &ecirc;tre en mesure d&#39;aider. &Eacute;tant ouvert et raisonnable aidera l&#39;auditeur &agrave; devenir engag&eacute; dans votre argument.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1323,7 +1306,7 @@
       },
       {
         "title": "Exemples de bonnes actions",
-        "body": "<p>Les bonnes actions ne doivent pas &ecirc;tre r&eacute;volutionnaires.</p><p>Des exemples de bonnes actions inclus:</p><ul><li>Obtenir une date dans le journal pour une r&eacute;union de suivi avec plus de personnes</li><li>Engagement &agrave; lire et &agrave; r&eacute;pondre &agrave; une &eacute;tude de cas pertinente &agrave; leurs int&eacute;r&ecirc;ts</li><li>Engagement &agrave; vous envoyer une &eacute;valuation de faisabilit&eacute; pour votre solution</li></ul>",
+        "body": "<p>Les bonnes actions ne doivent pas &ecirc;tre r&eacute;volutionnaires.</p><p>Des exemples de bonnes actions incluent:</p><ul><li>Obtenir une date dans le journal pour une r&eacute;union de suivi avec plus de personnes</li><li>Engagement &agrave; lire et &agrave; r&eacute;pondre &agrave; une &eacute;tude de cas pertinente &agrave; leurs int&eacute;r&ecirc;ts</li><li>Engagement &agrave; vous envoyer une &eacute;valuation de faisabilit&eacute; pour votre solution</li></ul>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1417,7 +1400,7 @@
     "_layout": "left",
     "_parentId": "592ff8b7d084d5167a04eb28",
     "_type": "component",
-    "body": "<p>Une gestion efficace est essentielle &agrave; la r&eacute;ussite de tout projet ou initiative. La gestion du changement ne fait pas exception. Ci-dessous, nous explorons certaines des principales raisons pour lesquelles nous devons g&eacute;rer le processus de changement.</p>",
+    "body": "<p>Une gestion efficace est essentielle &agrave; la r&eacute;ussite de tout projet ou initiative. La gestion du changement ne fait pas exception. Ci-dessous, nous explorons certaines des raisons principales&nbsp;pour lesquelles nous devons g&eacute;rer le processus de changement.</p>",
     "displayTitle": "Pourquoi la gestion des changements est-elle nécessaire?",
     "title": "Pourquoi la gestion des changements est-elle nécessaire?",
     "_isAvailable": true,
@@ -1431,7 +1414,7 @@
     "_items": [
       {
         "title": "Le changement ne se produit pas du jour au lendemain",
-        "body": "<p dir=\"ltr\">Il est presque impossible de mettre en &oelig;uvre des changements du jour au lendemain, en particulier dans les grandes structures. Au fil du temps, les organisations s&#39;habituent &agrave; fonctionner d&#39;une certaine mani&egrave;re et il leur faut du temps pour changer.</p><p>&Eacute;tant donn&eacute; que la mise en &oelig;uvre du changement prend du temps, il faut une personne ou une &eacute;quipe de personnes qui se consacrent &agrave; la supervision et &agrave; la gestion du processus de changement. Cela permet &eacute;galement de s&#39;assurer que le processus continue.</p><p><a href=\"http://www.nortonrosefulbright.com/knowledge/publications/136571/the-digital-transformation-of-the-german-emmittelstandem\">Un rapport Allemand</a> a r&eacute;v&eacute;l&eacute; que la collaboration est la cl&eacute; de la gestion du changement et de la transformation num&eacute;rique dans les petites et moyennes entreprises.</p>",
+        "body": "<p dir=\"ltr\">Il est presque impossible de mettre en &oelig;uvre des changements du jour au lendemain, en particulier dans les grandes structures. Au fil du temps, les organisations s&#39;habituent &agrave; fonctionner d&#39;une certaine mani&egrave;re et il leur faut du temps pour changer.</p><p>&Eacute;tant donn&eacute; que la mise en &oelig;uvre du changement prend du temps, il faut une personne ou une &eacute;quipe de personnes qui se consacrent &agrave; la supervision et &agrave; la gestion du processus de changement. Cela permet &eacute;galement de s&#39;assurer que le processus continue.</p><p><a href=\"http://www.nortonrosefulbright.com/knowledge/publications/136571/the-digital-transformation-of-the-german-emmittelstandem\">Un rapport allemand</a> a r&eacute;v&eacute;l&eacute; que la collaboration est la cl&eacute; de la gestion du changement et de la transformation num&eacute;rique dans les petites et moyennes entreprises.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1441,7 +1424,7 @@
       },
       {
         "title": "Réduire les risques",
-        "body": "<p>La gestion du processus de changement r&eacute;duit les risques globaux d&#39;une organisation.</p><p>Il existe diff&eacute;rentes raisons pour lesquelles une organisation souhaite mettre en &oelig;uvre un processus de gestion des changements. Parfois, cela peut &ecirc;tre d&ucirc; &agrave; des impacts n&eacute;gatifs venant de leur processus, syst&egrave;me, structure ou mode de fonctionnement actuel.</p><p>Dans ces cas, il existe un risque de maintenir la situation actuelle car cela pourrait entra&icirc;ner une perte de revenus ou une baisse de la r&eacute;putation de l&#39;organisation. C&#39;&eacute;tait le cas avec <a href=\"http://www.landmark.co.uk/\">Landmark</a>, une soci&eacute;t&eacute; Anglaise dont le mod&egrave;le d&#39;entreprise &eacute;tait sur le point de dispara&icirc;tre, car les donn&eacute;es sur lesquelles ils s&#39;appuyaient pour vendre &agrave; d&#39;autres sont devenues ouvertes. Pour &eacute;viter la catastrophe, <a href=\"http://theodi.org/lunchtime-lectures/friday-lunchtime-lecture-changing-tracks-with-hs2-open-data\">ils ont d&ucirc;&nbsp;changer leur business</a>, dirig&eacute; par le chef de la direction et pilot&eacute;s par l&#39;&eacute;quipe.</p><p>Cependant, il pourrait &ecirc;tre &eacute;galement risqu&eacute; de mettre en &oelig;uvre des changements trop rapidement. La gestion du processus de changement est un moyen de contr&ocirc;ler ces risques et de s&#39;assurer que le changement soit positif.</p>",
+        "body": "<p>La gestion du processus de changement r&eacute;duit les risques globaux d&#39;une organisation.</p><p>Il existe diff&eacute;rentes raisons pour lesquelles une organisation souhaite mettre en &oelig;uvre un processus de gestion des changements. Parfois, cela peut &ecirc;tre d&ucirc; &agrave; des impacts n&eacute;gatifs venant de leur processus, syst&egrave;me, structure ou mode de fonctionnement actuel.</p><p>Dans ces cas, il existe un risque de maintenir la situation actuelle car cela pourrait entra&icirc;ner une perte de revenus ou une baisse de la r&eacute;putation de l&#39;organisation. C&#39;&eacute;tait le cas avec <a href=\"http://www.landmark.co.uk/\">Landmark</a>, une soci&eacute;t&eacute; anglaise dont le mod&egrave;le d&#39;entreprise &eacute;tait sur le point de dispara&icirc;tre, car les donn&eacute;es sur lesquelles ils s&#39;appuyaient pour vendre &agrave; d&#39;autres sont devenues ouvertes. Pour &eacute;viter la catastrophe, <a href=\"http://theodi.org/lunchtime-lectures/friday-lunchtime-lecture-changing-tracks-with-hs2-open-data\">ils ont d&ucirc;&nbsp;changer leur business</a>, dirig&eacute; par le chef de la direction et pilot&eacute;s par l&#39;&eacute;quipe.</p><p>Cependant, il pourrait &ecirc;tre &eacute;galement risqu&eacute; de mettre en &oelig;uvre des changements trop rapidement. La gestion du processus de changement est un moyen de contr&ocirc;ler ces risques et de s&#39;assurer que le changement soit positif.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1868,7 +1851,7 @@
       },
       {
         "title": "Refléter, itérer, réitérer",
-        "body": "<p>Il peut &ecirc;tre difficile de regarder en arri&egrave;re ce qui s&#39;est d&eacute;j&agrave; produit &agrave; la suite du projet, et les raisons pour lesquelles il a ou n&#39;a pas &eacute;t&eacute; un succ&egrave;s.&nbsp;</p><p>Donnez-vous le temps de refl&eacute;ter, afin que vous puissiez &ecirc;tre flexible et it&eacute;ratif dans votre approche. Si quelque chose ne fonctionne pas, n&#39;ayez pas peur de le supprimer de votre p&eacute;rim&egrave;tre de travail.</p><p>L&#39;it&eacute;ration et l&#39;am&eacute;lioration de votre approche signifient que votre projet, programme ou initiative de donn&eacute;es ouvertes est beaucoup plus susceptible d&#39;avoir un impact.</p>",
+        "body": "<p>Il peut &ecirc;tre difficile de regarder en arri&egrave;re ce qui s&#39;est d&eacute;j&agrave; produit &agrave; la suite du projet&nbsp;et les raisons pour lesquelles il a ou n&#39;a pas &eacute;t&eacute; un succ&egrave;s.&nbsp;</p><p>Donnez-vous le temps de refl&eacute;ter, afin que vous puissiez &ecirc;tre flexible et it&eacute;ratif dans votre approche. Si quelque chose ne fonctionne pas, n&#39;ayez pas peur de le supprimer de votre p&eacute;rim&egrave;tre de travail.</p><p>L&#39;it&eacute;ration et l&#39;am&eacute;lioration de votre approche signifient que votre projet, programme ou initiative de donn&eacute;es ouvertes est beaucoup plus susceptible d&#39;avoir un impact.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1936,7 +1919,7 @@
     "_layout": "full",
     "_parentId": "592ff8b7d084d5167a04eb46",
     "_type": "component",
-    "body": "<p>Les donn&eacute;es ouvertes sont un concept relativement nouveau, et soul&egrave;ve des barri&egrave;res automatiques dans certaines situations. Dans cette section, nous explorons certains des obstacles principaux &agrave; la r&eacute;alisation d&#39;impacts que font face les donn&eacute;es ouvertes, ainsi que les moyens de les surmonter.</p>",
+    "body": "<p>Les donn&eacute;es ouvertes sont un concept relativement nouveau&nbsp;et soul&egrave;ve des barri&egrave;res automatiques dans certaines situations. Dans cette section, nous explorons certains des obstacles principaux &agrave; la r&eacute;alisation d&#39;impacts que font face les donn&eacute;es ouvertes, ainsi que les moyens de les surmonter.</p>",
     "displayTitle": "Surmonter les obstacles pour réaliser un impact",
     "title": "Surmonter les obstacles pour réaliser un impact",
     "_isAvailable": true,
@@ -2316,6 +2299,23 @@
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "592ff8b7d084d5167a04eb5b",
+    "_layout": "left",
+    "_parentId": "592ff8b7d084d5167a04eb2b",
+    "_type": "component",
+    "body": "<p>L&rsquo;ouverture des donn&eacute;es peut &ecirc;tre une activit&eacute; de grande valeur pour toutes les&nbsp;organisations. Que ce soit pour g&eacute;n&eacute;rer de l&#39;innovation dans une entreprise, d&eacute;velopper une image plus claire des op&eacute;rations ou am&eacute;liorer les produits et services, un nombre important d&#39;organisations du secteur priv&eacute; et public b&eacute;n&eacute;ficie&nbsp;maintenant de la publication et de l&#39;utilisation de donn&eacute;es ouvertes.</p><p>Cependant l&rsquo;ouverture des donn&eacute;es peut exiger un changement dans la culture d&#39;une organisation. La plupart des organisations est&nbsp;configur&eacute;e&nbsp;pour prot&eacute;ger leurs ressources de donn&eacute;es, m&ecirc;me si les avantages de l&#39;ouverture l&#39;emportent sur les frais associ&eacute;s. La solution pour surmonter cette r&eacute;sistance est &eacute;vidente, une communication efficace des avantages que les&nbsp;donn&eacute;es ouvertes&nbsp;peuvent apporter et apportent.</p><p>Ce module vous pr&eacute;parera &agrave; effectuer un pitch sur mesure pour les donn&eacute;es ouvertes qui met&nbsp;l&rsquo;accent sur la valeur et r&eacute;pond aux risques.</p><p>Dans ce module, nous allons explorer comment:</p><ul><li>Structurer&nbsp;le pitch parfait</li><li>Identifier&nbsp;diff&eacute;rents publics pour votre pitch</li><li>Adapter&nbsp;votre pitch selon diff&eacute;rents publics</li></ul>",
+    "displayTitle": "Mobilisation pour l'open data",
+    "title": "Mobilisation pour l'open data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
     "_component": "text",
     "_pageLevelProgress": {
       "_isEnabled": true
